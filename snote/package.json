@@ -1,0 +1,9 @@
+{
+	"name":	"snote",
+	"main":	"index.html",
+	"window": {
+	"toolbar": false,
+    "width": "100%",
+    "height": 600
+	}
+}
